@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.pokemonName {
+  text-transform: capitalize;
+}
+
+.sprite {
+  border: black 2px solid;
+}
